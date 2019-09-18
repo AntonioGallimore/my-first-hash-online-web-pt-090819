@@ -14,7 +14,6 @@ the_manifest = old_timey_items = {
   "porcelain vase" => 2,
   "oil painting" => 3
 }
-
 end
 
 def retrieval
